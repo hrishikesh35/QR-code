@@ -1,2 +1,2 @@
-Create your "student.txt" in same directory.
-Enter your data like Student names in "student.txt".
+# QR code Generator using python
+## Attendace System using Python Libraries
