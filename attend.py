@@ -15,7 +15,7 @@ names = []
 
 fob = open('attendance.txt','a+')
 def enterData(z):
-    if z in names:
+    if z in names: 
         pass
     else:
         names.append(z)
